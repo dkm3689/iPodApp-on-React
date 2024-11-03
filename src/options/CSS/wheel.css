@@ -1,0 +1,73 @@
+.wheel-container {
+    height: 260px;
+    width: 280px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: #D6C5A3; */
+    /* background-color: rgb(34, 45, 82); */
+    /* border-radius: 50%; */
+    /* margin-top: auto;
+    position: relative;
+    border-radius: 0 0 25px 25px;
+    box-shadow: 
+    0 4px 8px rgba(0, 0, 0, 0.2), Soft shadow
+    0 6px 20px rgba(0, 0, 0, 0.19); Stronger shadow for depth
+    transition: transform 0.3s ease; Smooth transition */
+} 
+
+.wheel-options {
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    /* margin-top: auto; */
+    display: flex;
+    background-color: rgb(240, 232, 232);
+    cursor: pointer;
+    /* will stay in parent's block */
+    position: relative;
+}
+
+.wheel-control {
+    position: absolute;
+    font-weight: 800;
+}
+
+#menu {
+    left: 36%;
+    top: 10%;
+    font-weight: 900;
+    font-size: 20px;
+    width: 30px;
+    height: 40px;
+}
+
+#backward {
+    left: 10%;
+    top: 45%;
+    font-size: 20px;
+}
+
+#forward {
+    right: 10%;
+    top: 45%;
+    font-size: 20px;
+}
+
+#play-pause {
+    left: 45%;
+    bottom: 10%;
+    font-size: 15px;
+}
+
+.blank {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: #3f3f3d5c;
+    /* box-shadow */
+    /* 0 4px 8px rgba(0, 0, 0, 0.2), Soft shadow */
+    /* 0 6px 20px rgba(0, 0, 0, 0.19); Stronger shadow for depth */
+/* transition: transform 0.3s ease; Smooth transition */
+}

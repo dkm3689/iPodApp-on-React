@@ -1,0 +1,16 @@
+.games {
+    height: 180px;
+    width: 100%;
+    overflow: hidden; /* Ensures the image does not overflow */
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.games img {
+    width: 100%; /* Scales to the width of the parent */
+    height: 180px; /* Scales to the height of the parent */
+    /* margin-bottom: 10px; */
+}

@@ -1,0 +1,11 @@
+.music {
+    width: 100%;
+    height: 180px;
+    /* //keeps it inside the container */
+    overflow: hidden;
+    background-color: rgb(227, 242, 253, 0.8);
+}
+
+/* .music #song1 {
+    padding: 0px 0px;
+} */

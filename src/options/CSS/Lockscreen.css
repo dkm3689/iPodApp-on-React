@@ -1,0 +1,10 @@
+.bottom-div-lockscreen {
+    height: 50px;
+    width: 100%;
+    margin-top: 120px;
+    background-color: rgb(240, 248, 255, 0.5);
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
