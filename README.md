@@ -22,20 +22,18 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/ipod-music-player.git
    cd ipod-music-player
    
-2. **Install dependencies**:
-
-```bash
+2. **Install Dependencies**:
+   
 npm install
 
 3. **Run the app locally**:
 
 npm start
-Open http://localhost:3000 in your browser to see the app in action.
+Open http://localhost:3000 in your browser to see the app in action
 
 4. **Dependencies**:
 React
 ZingTouch
-
 
 5. **Usage**:
 
