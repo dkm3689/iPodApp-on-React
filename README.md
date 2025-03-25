@@ -14,6 +14,8 @@ This is a React-based music player app that m**imics the design and functionalit
 You can view the live demo of this app at:  
 [Live Demo Link](https://i-pod-app-on-react.vercel.app/) 
 
+
+
 ## Dependencies
 - React
 - ZingTouch
